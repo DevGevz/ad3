@@ -1,0 +1,45 @@
+body {
+    background-color: blanchedalmond;
+}
+
+.head {
+    display: flex;
+}
+
+
+.center {
+    text-align: center;
+}
+.logo{
+    border-radius: 50%;
+    box-shadow: 10px 10px 10px black;
+}
+h1 {
+    text-align: center;
+    font-size: 25px;
+    text-decoration: underline double;
+    color: #a52e0a;
+}
+
+.center .img2 {
+    height: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    border: 1px solid;
+    border-radius: 2%;
+    margin-top: 10%;
+    margin-bottom: 15%;
+    background-image: linear-gradient(to bottom, rgb(186, 236, 186), rgb(251, 255, 0), #a52e0a);
+    box-shadow: -10px 19px 10px black;
+}
+
+.center .text p {
+    background-color: bisque;
+    text-align: right;
+    box-shadow: 5px 10px 60px black;
+    padding: 17px;
+    border-radius: 10px;
+    color: #a52e0a;
+    font-weight: 600;
+}
