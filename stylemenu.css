@@ -19,7 +19,7 @@
     width: 250px;
     height: 100%;
     background-image: linear-gradient(to bottom, rgb(186, 236, 186), rgb(251, 255, 0), #a52e0a);
-    padding-top: 9%;
+    padding-top: 50%;
     transition: all 0.5s ease;
 }
 #menu ul {
@@ -28,8 +28,7 @@
 }
 #menu ul li {
     text-align: center;
-    padding: 135px 50px 135px;
-    border-bottom: 1px solid black;
+    padding: 25px;
 }
 
 #menu ul li a {
@@ -47,7 +46,7 @@
 }
 /* -------------- Menu tablet/computer -------------- */
 #menu-computer {
-    position: fixed;
+    position: absolute;
     top: 0px;
     right: 0px;
     display: none;
