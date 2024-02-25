@@ -9,15 +9,24 @@
         margin-top: 70%;
         margin-left: 530%;
     }
+    #menu{
+        padding-top: 45%;
+    }
 }
 @media screen and (min-width: 375px) {
     #menuButton {
         margin-left: 650%;
     }
+    #menu{
+        padding-top: 40%;
+    }
 }
 @media screen and (min-width: 380px) {
     #menuButton {
         margin-left: 660%;
+    }
+    #menu{
+        padding-top: 40%;
     }
 }
 @media screen and (min-width: 400px) {
@@ -33,25 +42,40 @@
         margin-top: 35%;
         margin-left: 480%;
     }
+    #menu{
+        padding-top: 35%;
+    }
 }
 @media screen and (min-width: 450px) {
     #menuButton {
         margin-left: 540%;
+    }
+    #menu{
+        padding-top:34%;
     }
 }
 @media screen and (min-width: 475px) {
     #menuButton {
         margin-left: 590%;
     }
+    #menu{
+        padding-top: 33%;
+    }
 }
 @media screen and (min-width: 500px) {
     #menuButton {
         margin-left: 640%;
     }
+    #menu{
+        padding-top: 31%;
+    }
 }
 @media screen and (min-width: 525px) {
     #menuButton {
         margin-left: 690%;
+    }
+    #menu{
+        padding-top: 29%;
     }
 }
 @media screen and (min-width: 550px) {
@@ -78,7 +102,6 @@
         width: 100px;
     }
     #menu-computer {
-        position: fixed;
         top: 2%;
         right: 5%;
     }
@@ -95,7 +118,6 @@
         width: 100px;
     }
     #menu-computer {
-        position: fixed;
         top: 2%;
         right: 5%;
     }
